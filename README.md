@@ -16,13 +16,7 @@ Each task is organized in its own folder with code, documentation, and output fi
   - Best practices to avoid phishing.
   - Real-world examples + interactive quizzes for better engagement.
 
- ✅ Task 3: Secure Code Review.
-- Performed a **secure code review** on a sample application.
-- Identified potential vulnerabilities.
-- Provided **fixes, best practices, and remediation steps**.
-- Documented everything in a detailed review report.
-
- ✅ Task 4: Network Intrusion Detection System.
+ ✅ Task 3: Network Intrusion Detection System.
 - Configured a **network-based IDS** using Snort/Suricata.
 - Added custom **rules & alerts** to detect suspicious activity.
 - Documented setup steps, testing results, and response actions.
